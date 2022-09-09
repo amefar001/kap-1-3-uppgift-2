@@ -1,3 +1,3 @@
 
 namn = input("Vad heter du?")
-print("Hej", namn)
+print("Hej", namn) # utmatning 
